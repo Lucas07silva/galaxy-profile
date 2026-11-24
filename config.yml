@@ -1,0 +1,63 @@
+
+username: Lucas07silva
+
+profile:
+  name: "Lucas Vinicius"
+  tagline: "Full Stack Developer | Information Systems Student"
+  philosophy: '"Code, curiosity and purpose | Código, curiosidade e propósito."'
+
+galaxy_arms:
+  - name: "Backend & APIs"
+    items:
+      - "Java"
+      - "JavaScript"
+      - "Node.js"
+      - "Express"
+      - "Spring Boot"
+
+  - name: "Data & Persistence"
+    items:
+      - "MongoDB"
+      - "PostgreSQL"
+      - "SQL"
+      - "PLpgSQL"
+
+  - name: "Development & Tools"
+    items:
+      - "Python"
+      - "PHP"
+      - "React"
+      - "Git"
+
+projects:
+  - repo: "Lucas07silva/controle-de-acesso-api"
+    arm: 0
+    description: "API REST e painel web para gestão de acessos, integração Intelbras e relatórios."
+
+  - repo: "Lucas07silva/maintenance-service-orders"
+    arm: 0
+    description: "Sistema de ordens de serviço industrial com Java, Spring Boot e MongoDB."
+
+  - repo: "Lucas07silva/Solid-Principles"
+    arm: 2
+    description: "Aplicação prática dos princípios SOLID utilizando PHP e orientação a objetos."
+
+theme:
+  dark: "deep-sky"
+  light: "deep-sky"
+
+motion: true
+
+stats:
+  metrics:
+    - "stars"
+    - "prs"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
